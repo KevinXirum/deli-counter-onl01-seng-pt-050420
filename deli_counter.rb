@@ -12,5 +12,5 @@ end
 
 def take_a_number(deli, costumer)
   deli << name
-  puts "Welcome, #{name}. You are number #{deli.lenght} "
+  puts "Welcome, #{name}. You are number #{deli.lenght} in line"
 end
