@@ -16,5 +16,5 @@ def take_a_number(deli, costumer)
 end
 
 def now_serving(deli)
-  
+  if deli.empty
 end
