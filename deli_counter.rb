@@ -15,4 +15,4 @@ def take_a_number(deli, costumer)
   puts "Welcome, #{name}. You are number #{deli.lenght} in line"
 end
 
-def
+def now_serving()
